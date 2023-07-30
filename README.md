@@ -3,6 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidson-william-ferreira/)
 
 ![Davidson GitHub stats](https://github-readme-stats.vercel.app/api?username=devblackk&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devblackk&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que estou aprendendo
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -17,9 +18,6 @@
 ![DART](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white
 )
 ![SWIFT](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devblackk&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## Sobre Mim
 - 👨‍💻 Desenvolvedor Full-Stack aspirante.
