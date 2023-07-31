@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidson-william-ferreira/)
 
 ![Davidson GitHub stats](https://github-readme-stats.vercel.app/api?username=devblackk&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devblackk&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<img height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devblackk&layout=donut&theme=tokyonight"/>
 
 ## Tecnologias que estou aprendendo
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -34,7 +34,7 @@ Este repositório é um espaço onde combino minha paixão pelo áudiovisual com
 - 🌐 Contribuir para a transformação do mundo através da tecnologia.
 
 ## Objetivos
-Estou estudando arduamente para me tornar um desenvolvedor Full-Stack e alavancar minha carreira nesse campo em constante evolução. Meu objetivo é utilizar a tecnol(ogia como uma poderosa ferramenta para criar soluções e proporcionar às pessoas uma nova perspectiva do mundo.
+Estou estudando arduamente para me tornar um desenvolvedor Full-Stack e alavancar minha carreira nesse campo em constante evolução. Meu objetivo é utilizar a tecnologia como uma poderosa ferramenta para criar soluções e proporcionar às pessoas uma nova perspectiva do mundo.
 
 ## Contato
 - 📧 Email: [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](davidsonwferreira8@gmail.com)
